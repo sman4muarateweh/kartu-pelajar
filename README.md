@@ -22,6 +22,5 @@ atau<br>
 4.satsetsatset
 
 <br>
-catatan : ini tidak berjalan pada php versi 8 atau diatasnya maka dari itu repo ini diarsipkan.
-dan ada galat dan juga bug pada session.
+catatan : ini belum dapat berjalan pada php versi 8 atau diatasnya , juga untuk bahan ajar atau alat ajar untuk siswa(i) ,mohon untuk tidak memperjual belikan source code ini,atas perhatiannya,terima kasih.
 
