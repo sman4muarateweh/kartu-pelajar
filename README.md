@@ -2,7 +2,7 @@
 formerly name : blueArchive <br>
 
 <center>
-  <p><img src="pratayang.png" width="100%" height="200px"></p>
+  <p><img src="pratayang.png" width="100%" height="50%"></p>
 </center>
 
 
