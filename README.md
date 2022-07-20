@@ -8,7 +8,7 @@ formerly name : blueArchive <br>
 
 adalah aplikasi kartupelajar berbasis webforum yang awalnya dibuat untuk menampung alumni dan siswa(i) agar tetap terhubung
 repo ini digunakan pada situs kartupelajar pada SMAN 4 Muara Teweh.<br>
-aplikasi ini di optimalkan untuk pengguna mobile atau resolusi bidang dibawah rata bidang desktop.
+aplikasi ini di optimalkan untuk pengguna mobile atau resolusi bidang dibawah rata-rata resolusi bidang desktop.<br>
 
 ini ditulis dengan menggunakan bahasa<br> 
 -Jawascript<br>
