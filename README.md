@@ -6,7 +6,6 @@ repo ini digunakan pada situs kartupelajar pada SMAN 4 Muara Teweh.<br>
 ini ditulis dengan menggunakan bahasa<br> 
 -Jawascript<br>
 -php<br>
--javascript<br>
 
 yang diperlukan:
 niat<br>
