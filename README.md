@@ -21,4 +21,7 @@ atau<br>
 3.atur database dan sesuaikan ,pengaturan terdapat pada config/config.php sesuai dengan database yang telah disediakan pada repo<br>
 4.satsetsatset
 
+<br>
+catatan : ini tidak berjalan pada php versi 8 atau diatasnya maka dari itu repo ini diarsipkan.
+dan ada galat dan juga bug pada session.
 
