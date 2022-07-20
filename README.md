@@ -1,7 +1,7 @@
 # 4room
 formerly name : blueArchive <br>
 
-<img src="pratayang.png" width="127" height="211">
+<img src="pratayang.png" width="666" height="234">
 
 adalah aplikasi kartupelajar berbasis webforum yang awalnya dibuat untuk menampung alumni dan siswa(i) agar tetap terhubung
 repo ini digunakan pada situs kartupelajar pada SMAN 4 Muara Teweh.<br>
