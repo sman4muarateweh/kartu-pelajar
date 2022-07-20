@@ -1,17 +1,19 @@
 # 4room
 formerly name : blueArchive <br>
-a forum which using on kartupelajar
+adalah aplikasi kartupelajar berbasis webforum yang awalnya dibuat untuk menampung alumni dan siswa(i) agar tetap terhubung
+repo ini digunakan pada situs kartupelajar pada SMAN 4 Muara Teweh.<br>
 
-ini ditulis dengan menggunakan bahasa 
+ini ditulis dengan menggunakan bahasa<br> 
 -Jawascript<br>
 -php<br>
 -javascript<br>
 
-minimum requirement is :
-php 5.6 dengan module intl aktif
-mysql 5.0
+yang diperlukan:
+niat<br>
+php 5.6 dengan module intl aktif<br>
+mysql 5.0<br>
 
-<h4>Cara Pasang</h4>
+<h4>Cara Pasang:</h4>
 
 Singkat cerita , silahkan gunakan xampp dengan versi php minimal 5.6<br>
 atau<br>
