@@ -8,7 +8,8 @@ header("Cache-Control: post-check=0, pre-check=0", false);
 header("Pragma: no-cache");
 header("Expires: 0");
 echo '<script type="text/javascript">
-        location.replace(".."); // Ganti dengan nama file login Anda
+        var redirectLocation = "..";
+        window.location.replace(redirectLocation);
       </script>';
 exit();
 ?>
